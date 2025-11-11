@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Olá! Eu sou o Leo Freitas  
 
 🎓 Estudante de Técnico em Informática no IFTM  
@@ -7,20 +9,15 @@
 ---
 
 ### 🧠 Habilidades
-<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<br><br>
+<img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding:10px;" />
+<img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
+<img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
+<img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/FreitasLeo0102">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLeo0102&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+### 📊 Linguagens mais usadas
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasLeo0102&layout=compact&theme=tokyonight&langs_count=7"/>
 
 ---
 
@@ -31,3 +28,5 @@
 ---
 
 💬 *"A tecnologia muda o mundo, mas é o conhecimento que transforma pessoas."*
+
+</div>
