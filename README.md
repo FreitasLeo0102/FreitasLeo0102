@@ -23,13 +23,10 @@
 
 ### 📫 Como me encontrar  
 <a href="mailto:freitasleo535@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40px" style="padding:10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="45px" style="padding:10px;" />
 </a>
 <a href="https://www.instagram.com/freitasleo0102/?igsh=em9tY3ZjdXVheXIy" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="instagram" width="40px" style="padding:10px;" />
-</a>
-<a href="https://github.com/FreitasLeo0102" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40px" style="padding:10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="45px" style="padding:10px;" />
 </a>
 
 ---
